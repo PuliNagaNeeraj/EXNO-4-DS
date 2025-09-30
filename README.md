@@ -1,4 +1,7 @@
 # EXNO:4-Feature Scaling and Selection
+
+### Name : Puli Naga Neeraj
+### Reg no : 212223240130
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
